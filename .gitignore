@@ -1,0 +1,6 @@
+node_modules/
+tools/preview/
+.venv/
+__pycache__/
+.DS_Store
+# dist/ is committed on purpose: Streamlit Cloud serves the prebuilt game.
